@@ -6,4 +6,6 @@ def meal_choice(veg1, veg2, protein = 'tofu')
   meal
 end
 
+meal_choice()
+
 # For output purposes, use "puts" instead of "print" or "p"
